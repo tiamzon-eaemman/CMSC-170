@@ -1,5 +1,6 @@
 # "Responsible Use of AI"
 
+import utils.session
 class TicTacToe:
     def __init__(self):
         # empty 3x3 
